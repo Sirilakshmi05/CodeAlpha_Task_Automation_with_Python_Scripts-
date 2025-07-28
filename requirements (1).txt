@@ -1,0 +1,3 @@
+# No external packages required
+# Built with Python's standard library (tkinter, os, re)
+python>=3.6
